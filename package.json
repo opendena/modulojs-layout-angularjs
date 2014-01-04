@@ -1,0 +1,25 @@
+{
+  "name": "modulojs-layout-angularjs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "modulojs-conf": "*",
+    "jade": "0.35.0"
+  },
+  "description": "ERROR: No README data found!",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "opendena",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opendena/modulojs-layout-angularjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/opendena/modulojs-layout-angularjs/issues"
+  }
+}

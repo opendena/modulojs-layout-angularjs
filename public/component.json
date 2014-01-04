@@ -1,0 +1,17 @@
+{
+  "name": "ngstrap",
+  "repo": "rma/ngstrap",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "jashkenas/underscore": "*",
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "remotes": [
+    "https://raw.github.com",
+    "http://git.denaroo.com/raw/"
+  ]
+}
